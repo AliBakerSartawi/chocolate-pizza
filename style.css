@@ -158,7 +158,9 @@ main > section:nth-of-type(3) button {
   color: white;
   background-color: #BC735B;
   text-decoration: none;
-  border: none;
+  border-width: 1px;
+  border-color: #BC735B;
+  border-style: solid;
 }
 
 main > section:nth-of-type(3) button:hover {
